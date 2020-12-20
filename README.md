@@ -8,7 +8,15 @@ In the bulk of the project we determine the best teams favored to win based on g
 
 ### Ranking football teams with UNWEIGHTED paths
 
-We rank each team by counting the number of different teams they are connecte to and get the average
+We rank each team by counting the number of different teams they are connected to and getting the average number of unweighted paths to those teams.
+
+### Ranking football teams with WEIGHTED paths
+
+We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams.
+
+### Ranking football teams with WEIGHTED paths and win / loss percentage
+
+We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams. Afterwards we alter the data by dividing the results with win / loss percentage that was found with a printRootMeanSquareError method in the src/FootballRanker class.
 
 ## Key Feautures
 
