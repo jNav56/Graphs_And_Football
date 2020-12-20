@@ -1,0 +1,83 @@
+ ***** RESULTS BASED ON WEIGHTED WINS ADJUSTED BY WIN PERCENTAGE *****
+
+***** TOP TEAMS *****
+predicted rank: 1, Name: Florida              cost per path: 1.4648, num paths: 186
+predicted rank: 2, Name: Texas                cost per path: 1.7578, num paths: 186
+predicted rank: 3, Name: Oklahoma             cost per path: 1.7787, num paths: 186
+predicted rank: 4, Name: Southern California  cost per path: 1.8363, num paths: 186
+predicted rank: 5, Name: Utah                 cost per path: 2.0489, num paths: 187
+predicted rank: 6, Name: Texas Tech           cost per path: 2.2431, num paths: 186
+predicted rank: 7, Name: Boise State          cost per path: 2.2788, num paths: 186
+predicted rank: 8, Name: Alabama              cost per path: 2.2881, num paths: 186
+predicted rank: 9, Name: Penn State           cost per path: 2.4123, num paths: 186
+predicted rank: 10, Name: Mississippi          cost per path: 2.7842, num paths: 186
+predicted rank: 11, Name: Iowa                 cost per path: 2.7904, num paths: 186
+predicted rank: 12, Name: Georgia              cost per path: 2.8539, num paths: 186
+predicted rank: 13, Name: Florida State        cost per path: 2.8549, num paths: 186
+predicted rank: 14, Name: Texas Christian      cost per path: 2.8727, num paths: 186
+predicted rank: 15, Name: Missouri             cost per path: 2.9115, num paths: 186
+predicted rank: 16, Name: Oregon               cost per path: 2.9354, num paths: 186
+predicted rank: 17, Name: Pittsburgh           cost per path: 2.9692, num paths: 186
+predicted rank: 18, Name: Tulsa                cost per path: 3.0668, num paths: 186
+predicted rank: 19, Name: Ohio State           cost per path: 3.1137, num paths: 186
+predicted rank: 20, Name: Virginia Tech        cost per path: 3.1519, num paths: 186
+predicted rank: 21, Name: North Carolina       cost per path: 3.1775, num paths: 186
+predicted rank: 22, Name: Cincinnati           cost per path: 3.1779, num paths: 186
+predicted rank: 23, Name: West Virginia        cost per path: 3.2593, num paths: 186
+predicted rank: 24, Name: Georgia Tech         cost per path: 3.2617, num paths: 186
+predicted rank: 25, Name: Oklahoma State       cost per path: 3.2871, num paths: 186
+predicted rank: 26, Name: Oregon State         cost per path: 3.2895, num paths: 186
+predicted rank: 27, Name: Ball State           cost per path: 3.3263, num paths: 186
+predicted rank: 28, Name: Nebraska             cost per path: 3.3456, num paths: 186
+predicted rank: 29, Name: Maryland             cost per path: 3.3872, num paths: 186
+predicted rank: 30, Name: California           cost per path: 3.3985, num paths: 186
+predicted rank: 31, Name: Connecticut          cost per path: 3.4106, num paths: 186
+predicted rank: 32, Name: Boston College       cost per path: 3.4237, num paths: 186
+predicted rank: 33, Name: Michigan State       cost per path: 3.5255, num paths: 186
+predicted rank: 34, Name: Rutgers              cost per path: 3.5769, num paths: 186
+predicted rank: 35, Name: South Florida        cost per path: 3.5802, num paths: 186
+predicted rank: 36, Name: Wake Forest          cost per path: 3.6385, num paths: 186
+predicted rank: 37, Name: Louisiana State      cost per path: 3.6494, num paths: 186
+predicted rank: 38, Name: Rice                 cost per path: 3.6908, num paths: 186
+predicted rank: 39, Name: Northwestern         cost per path: 3.6910, num paths: 186
+predicted rank: 40, Name: Houston              cost per path: 3.7393, num paths: 186
+predicted rank: 41, Name: East Carolina        cost per path: 3.7547, num paths: 186
+predicted rank: 42, Name: Brigham Young        cost per path: 3.8061, num paths: 186
+predicted rank: 43, Name: Kansas               cost per path: 3.9150, num paths: 186
+predicted rank: 44, Name: Navy                 cost per path: 3.9661, num paths: 186
+predicted rank: 45, Name: Western Michigan     cost per path: 4.5726, num paths: 186
+predicted rank: 46, Name: Arizona              cost per path: 4.6108, num paths: 186
+predicted rank: 47, Name: Air Force            cost per path: 4.6178, num paths: 186
+predicted rank: 48, Name: Louisiana Tech       cost per path: 4.8336, num paths: 186
+predicted rank: 49, Name: Buffalo              cost per path: 5.0397, num paths: 186
+predicted rank: 50, Name: Troy                 cost per path: 5.2107, num paths: 186
+predicted rank: 51, Name: Central Michigan     cost per path: 5.7678, num paths: 186
+
+
+ ***** PREDICTED VS. ACTUAL RESULTS *****
+Florida              - actual rank: 1 predicted rank: 1
+Utah                 - actual rank: 2 predicted rank: 5
+Southern California  - actual rank: 3 predicted rank: 4
+Texas                - actual rank: 4 predicted rank: 2
+Oklahoma             - actual rank: 5 predicted rank: 3
+Alabama              - actual rank: 6 predicted rank: 8
+Texas Christian      - actual rank: 7 predicted rank: 14
+Penn State           - actual rank: 8 predicted rank: 9
+Ohio State           - actual rank: 9 predicted rank: 19
+Oregon               - actual rank: 10 predicted rank: 16
+Boise State          - actual rank: 11 predicted rank: 7
+Texas Tech           - actual rank: 12 predicted rank: 6
+Georgia              - actual rank: 13 predicted rank: 12
+Mississippi          - actual rank: 14 predicted rank: 10
+Virginia Tech        - actual rank: 15 predicted rank: 20
+Oklahoma State       - actual rank: 16 predicted rank: 25
+Cincinnati           - actual rank: 17 predicted rank: 22
+Oregon State         - actual rank: 18 predicted rank: 26
+Missouri             - actual rank: 19 predicted rank: 15
+Iowa                 - actual rank: 20 predicted rank: 11
+Florida State        - actual rank: 21 predicted rank: 13
+Georgia Tech         - actual rank: 22 predicted rank: 24
+West Virginia        - actual rank: 23 predicted rank: 23
+Michigan State       - actual rank: 24 predicted rank: 33
+Brigham Young        - actual rank: 25 predicted rank: 42
+Root Mean Square Error: 6.3467
