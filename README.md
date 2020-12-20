@@ -14,7 +14,7 @@ We rank each team by counting the number of different teams they are connected t
 
 We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams.
 
-### Ranking football teams with WEIGHTED paths and win / loss percentage
+### Ranking football teams with WEIGHTED paths and WIN / LOSS percentage
 
 We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams. Afterwards we alter the data by dividing the results with win / loss percentage that was found with a printRootMeanSquareError method in the src/FootballRanker class.
 
