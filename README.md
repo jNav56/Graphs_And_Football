@@ -2,7 +2,7 @@
 
 In this project, I implement Dijkstra's algorithm (similar to Prims' minimum spanning tree algorithm) and a graph with supporting classes for vertices and edges. In this project I explore the nature of greedy algorithms and learn how to use dijkstra's algorithm and other methods associated with graphs to organize vital information about a graph notably the diameter, cycles, and the span of different points on the graph.
 
-In the bulk of the project we determine the best teams favored to win based on graphs that are formed by teams and the teams they play against.
+In the bulk of the project we determine the best teams favored to win based on graphs that are formed by teams and the teams they play against. We the compare our results to the actua outcome provided by the Associated Press end of season poll.
 
 ## Display of Project
 
