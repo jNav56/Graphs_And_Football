@@ -10,13 +10,23 @@ In the bulk of the project we determine the best teams favored to win based on g
 
 We rank each team by counting the number of different teams they are connected to and getting the average number of unweighted paths to those teams.
 
+Results in tests/Unweighted Tests.txt
+![gif]()
+
 ### Ranking football teams with WEIGHTED paths
 
 We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams.
 
+Results in tests/Weighted Tests.txt
+![gif]()
+
+
 ### Ranking football teams with WEIGHTED paths and WIN / LOSS percentage
 
 We rank each team by counting the number of different teams they are connected to and getting the average number of weighted paths to those teams. Afterwards we alter the data by dividing the results with win / loss percentage.
+
+Results in tests/Weighted with Adjustments Tests.txt
+![gif]()
 
 ## Key Feautures
 
